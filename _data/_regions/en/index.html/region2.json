@@ -1,1 +1,1 @@
-[{"_template":"href","url":"qwe","name":"werty"},{"_template":"html","content":"<p>Sample HTML</p>"}]
+[{"_template":"href","url":"qwe","name":"werty"},{"_template":"html","content":"<p>Sample HTML</p>\n<p>&nbsp;</p>\n<p>T</p>","rendered_height":500}]
